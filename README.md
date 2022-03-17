@@ -4,4 +4,4 @@
 
 I've re-implemented this school project in Rust using the [ggez](https://github.com/ggez/ggez) game library.
 
-[sph-simulation](resources/sph-sim.gif)
+![sph-simulation](resources/sph-sim.gif)
